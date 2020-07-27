@@ -7,4 +7,7 @@
   (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/keyboard_parts.pretty_1)(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
   (lib (name WS2812B)(type KiCad)(uri ${KIPRJMOD}/WS2812B.pretty)(options "")(descr ""))
+  (lib (name Alps_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid-master/Alps_Only.pretty)(options "")(descr ""))
+  (lib (name Kailh_Choc)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid-master/Kailh_Choc.pretty)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid-master/MX_Only.pretty)(options "")(descr ""))
 )
