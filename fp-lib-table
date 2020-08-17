@@ -10,4 +10,6 @@
   (lib (name Alps_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid-master/Alps_Only.pretty)(options "")(descr ""))
   (lib (name Kailh_Choc)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid-master/Kailh_Choc.pretty)(options "")(descr ""))
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid-master/MX_Only.pretty)(options "")(descr ""))
+  (lib (name "sk6812 mini-e")(type KiCad)(uri "${KIPRJMOD}/sk6812 mini-e")(options "")(descr ""))
+  (lib (name pcb_epic_new_inovation_system_aka_penis)(type KiCad)(uri ${KIPRJMOD}/Custom_Parts/pcb_epic_new_inovation_system_aka_penis.pretty)(options "")(descr ""))
 )
